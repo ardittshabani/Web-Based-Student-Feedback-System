@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.jumbotron {
+  background-color: #f5f6f7;
+  padding: 5rem 1rem;
+}
